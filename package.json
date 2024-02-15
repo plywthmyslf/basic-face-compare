@@ -1,0 +1,12 @@
+{
+  "name": "basic-face-compare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lite-server --baseDir=\"src\""
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
